@@ -1,0 +1,4 @@
+attribute value: [GUI | GUI1] ($/Tests[1]/Test[3]/@TestType) 
+child nodelist length: [3 | 4] ($/Tests[1]/Test[5]) 
+child: [null | {http://www.adatum.com}Unknown] ($/Tests[1]/Test[5]/Unknown[1]) 
+attribute value: [GUI | GUI1] ($/Tests[1]/Test[6]/Input[1]/Test[3]/@TestType) 
